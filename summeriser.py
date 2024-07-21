@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = 'sk-proj-yFNWynXwC8LGzhUEamhHT3BlbkFJK5LhvqWIR4ScqK1uG8m4'
+openai.api_key = ''
 
 def summarize_text(text, max_tokens=150):
 
